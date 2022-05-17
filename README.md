@@ -1,4 +1,4 @@
-![MasterHead](https://www.digiwebart.com/wp-content/uploads/2019/01/Website-Development.jpg)
+![MasterHead](https://w7.pngwing.com/pngs/450/193/png-transparent-web-development-web-design-web-banner-web-application-web-design-search-engine-optimization-web-design-mobile-app-development.png)
 
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
