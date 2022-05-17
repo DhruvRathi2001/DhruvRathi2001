@@ -43,7 +43,7 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvrathi2001&show_icons=true&locale=en" alt="dhruvrathi2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvrathi2001&show_icons=true&locale=en" alt="dhruvrathi2001" /></p>
 
 <br><br>
 
