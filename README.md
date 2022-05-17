@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/azaman357/azaman3571603/azaman357160300007/53371175-%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AB%E3%81%AF%E3%80%81%E9%95%B7%E3%81%84%E5%BD%B1%E3%81%A8-web-%E9%96%8B%E7%99%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%90%E3%83%8A%E3%83%BC%E3%81%8C%E8%A8%AD%E8%A8%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82.jpg)
+![MasterHead](https://previews.123rf.com/images/azaman357/azaman3571603/azaman357160300007/53371175-%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%81%AB%E3%81%AF%E3%80%81%E9%95%B7%E3%81%84%E5%BD%B1%E3%81%A8-web-%E9%96%8B%E7%99%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%90%E3%83%8A%E3%83%BC%E3%81%8C%E8%A8%AD%E8%A8%88%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82.jpg width="600")
 
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
