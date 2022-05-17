@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
 
-<img align="right" alt="Coding" width="300" height="300" margin-right="0px" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
+<img align="right" alt="Coding" width="300" height="200" margin-right="0px" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
 
 
