@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.thepostcity.com/wp-content/uploads/2020/12/Become-a-Web-Developer-780x470.jpg")
+<img align="right" alt="Coding" width="400" src="https://www.thepostcity.com/wp-content/uploads/2020/12/Become-a-Web-Developer-780x470.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathi2001&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathi2001" /> </p>
 
