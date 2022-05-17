@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kinesense-vca.com%2Fwp-content%2Fuploads%2F2021%2F10%2FWeb-design-1.jpg&imgrefurl=https%3A%2F%2Fwww.kinesense-vca.com%2F2021%2F10%2F29%2Fkinesense-is-hiring-a-web-developer%2F&tbnid=dnqX01GpKcmYyM&vet=12ahUKEwj0xZXh9eb3AhVormMGHUCzDDsQMygregUIARC5Ag..i&docid=-riO71aHvmOdsM&w=960&h=676&itg=1&q=web%20developer%20image&ved=2ahUKEwj0xZXh9eb3AhVormMGHUCzDDsQMygregUIARC5Ag" alt="">
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.thepostcity.com/wp-content/uploads/2020/12/Become-a-Web-Developer-780x470.jpg)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrathi2001&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrathi2001" /> </p>
 
