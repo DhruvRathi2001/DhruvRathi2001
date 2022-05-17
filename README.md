@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
 
-<img align="right" alt="Coding" width="500" margin-right="30px" src="https://www.thepostcity.com/wp-content/uploads/2020/12/Become-a-Web-Developer-780x470.jpg">
+<img align="right" alt="Coding" width="500" margin-right="30px" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
 
 
