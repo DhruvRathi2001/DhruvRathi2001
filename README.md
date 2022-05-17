@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 
 <h1 align="center">Hi 👋, I'm Dhruv Rathi</h1>
 <h3 align="center">A passionate Full stack (MERN) developer from India</h3>
